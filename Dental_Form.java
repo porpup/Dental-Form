@@ -32,7 +32,7 @@ public class Dental_Form extends JFrame {
         lblNewLabel.setBounds(29, 0, 960, 84);
         try {
             lblNewLabel.setIcon(new ImageIcon(
-                    "C:\\Users\\Oleksandr\\OneDrive\\LaSalle\\3rd Term\\Advanced Object Oriented Programming 420-PA3-AS\\Assignment\\R&D\\Dental_Form\\src/title.gif"));
+                    "C:/title.gif")); // add here path to 'title.gif' image
         } catch (Exception e) {
             e.printStackTrace();
         }
