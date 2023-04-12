@@ -397,7 +397,7 @@ public class Dental_Form extends JFrame {
         JCheckBox chckbxNewCheckBox = new JCheckBox("Full-Time");
         chckbxNewCheckBox.setBackground(Color.WHITE);
         chckbxNewCheckBox.setFont(new Font("Calibri Light", Font.PLAIN, 17));
-        chckbxNewCheckBox.setBounds(594, 269, 87, 23);
+        chckbxNewCheckBox.setBounds(594, 269, 89, 23);
         mainPanel.add(chckbxNewCheckBox);
 
         JCheckBox chckbxNewCheckBox_1 = new JCheckBox("Part-Time");
@@ -1085,7 +1085,7 @@ public class Dental_Form extends JFrame {
         JCheckBox chckbxSuffolkCounty = new JCheckBox("Suffolk County");
         chckbxSuffolkCounty.setFont(new Font("Calibri Light", Font.PLAIN, 17));
         chckbxSuffolkCounty.setBackground(Color.WHITE);
-        chckbxSuffolkCounty.setBounds(745, 575, 124, 23);
+        chckbxSuffolkCounty.setBounds(745, 575, 125, 23);
         mainPanel.add(chckbxSuffolkCounty);
 
         JCheckBox chckbxNewJersey = new JCheckBox("New Jersey");
