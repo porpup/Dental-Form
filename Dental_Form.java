@@ -1005,7 +1005,7 @@ public class Dental_Form extends JFrame {
         lblNewLabel_32.setBounds(542, 463, 218, 25);
         mainPanel.add(lblNewLabel_32);
 
-        JLabel lblNewLabel_33 = new JLabel("Who referred you to use?");
+        JLabel lblNewLabel_33 = new JLabel("Who referred you to us?");
         lblNewLabel_33.setFont(new Font("Calibri Light", Font.PLAIN, 17));
         lblNewLabel_33.setBounds(646, 499, 184, 25);
         mainPanel.add(lblNewLabel_33);
