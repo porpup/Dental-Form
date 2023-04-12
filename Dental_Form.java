@@ -415,7 +415,7 @@ public class Dental_Form extends JFrame {
         JCheckBox chckbxNewCheckBox_3 = new JCheckBox("Permanent");
         chckbxNewCheckBox_3.setBackground(Color.WHITE);
         chckbxNewCheckBox_3.setFont(new Font("Calibri Light", Font.PLAIN, 17));
-        chckbxNewCheckBox_3.setBounds(888, 268, 101, 23);
+        chckbxNewCheckBox_3.setBounds(888, 268, 102, 23);
         mainPanel.add(chckbxNewCheckBox_3);
 
         // Radio Buttons 1
